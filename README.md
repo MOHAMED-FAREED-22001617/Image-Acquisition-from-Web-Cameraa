@@ -27,8 +27,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ```
-### Developed By: Thirukaalathessvarar S
-### Register No:212222230161
+### Developed By: Mohamed Fareed F
+### Register No:212222230082
 
 ## i) Write the frame as JPG file
 import cv2
